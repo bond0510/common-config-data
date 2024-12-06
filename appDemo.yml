@@ -9,3 +9,8 @@ authorized:
 #Netbank readwrite -user_managerment_admin is added for test purpose
   readwriteaccess:
     channels:
+
+logging:
+  request:
+    header:
+      parameters:
