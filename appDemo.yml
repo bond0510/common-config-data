@@ -1,1 +1,4 @@
 apiName: app-demo-dev
+performance:
+  logging:
+    enabled:true
