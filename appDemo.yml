@@ -1,7 +1,7 @@
 apiName: app-demo-dev
 performance:
   logging:
-    enabled:true
+    enabled: true
 #Authorisationproperties
 authorized:
   readonlyaccess:
